@@ -1,0 +1,11 @@
+.gradle/
+build/
+**/build/
+.idea/
+out/
+*.iml
+.DS_Store
+
+# Solusi hands-on (jawaban) — tidak ikut di-commit, mahasiswa hanya dapat soal latihan
+solusi/
+
